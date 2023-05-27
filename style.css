@@ -1,6 +1,7 @@
 *{
     padding: 0;
     margin: 0;
+    background-color: maroon;
 }
 #game{
     width: 400px;
@@ -34,4 +35,8 @@
     position: relative;
     top: 100px;
     margin-top: -20px;
+}
+
+footer {
+    text-align: left;
 }
