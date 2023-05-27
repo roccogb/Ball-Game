@@ -37,6 +37,16 @@
     margin-top: -20px;
 }
 
-footer {
+#footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #f5f5f5;
+    padding: 10px;
     text-align: left;
-}
+  }
+  
+  #footer p {
+    margin: 0;
+  }
